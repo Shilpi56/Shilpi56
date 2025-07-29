@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Airline Operational Project**
 
-- 🌱 I’m currently learning **Machine Learning and Springboot**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
-- 💬 Ask me about **Nodejs**
+- 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **mail2shilpidas19@gmail.com**
 
